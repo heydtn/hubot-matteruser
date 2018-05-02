@@ -28,7 +28,7 @@
   },
   "main": "./src/matteruser",
   "dependencies": {
-    "mattermost-client": "^4.4.0",
+    "mattermost-client": "heydtn/mattermost-client",
     "parent-require": "^1.0.0",
     "q": "^1.4.1"
   }
